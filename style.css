@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 5rem;
+    margin-top: 5%;
+    
+    
+}
+body{
+    background-color: #282d26;
+    text-align: center;
+}
+.container{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin: 3% 0%;
+}
+.player{
+    height: 200px;
+    width: 200px;
+    margin: 0 3%;
+}
+h4{
+    font-family: 'Lobster Two', cursive;
+    font-size: 2.5rem;
+
+}
+.font-color{
+    color: mediumspringgreen;
+}
+img{
+    width: 65%;
+    margin-top: 3% ;
+}
+.dice-img{
+    margin: 20% 0%;
+}
+#footer{
+    margin: 8%;
+    color: mediumspringgreen;
+    
+}
+a{
+    color: mediumspringgreen;
+    text-decoration: none;
+    
+}
+h3{
+    font-family: 'Lobster Two', cursive;
+    font-size: 1.5rem;
+}
