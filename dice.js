@@ -40,13 +40,10 @@ else {
 
 if(randomNumber1===randomNumber2){
     document.querySelector("h1").innerHTML="Match draw";
-    document.querySelector("h1").style.fontSize= "6rem";
 }
  else if(randomNumber1>randomNumber2){
     document.querySelector("h1").innerHTML=" 🚩Player 1 wins";
-    document.querySelector("h1").style.fontSize= "6rem";
 }
 else{
     document.querySelector("h1").innerHTML=" 🚩Player 2 wins ";
-    document.querySelector("h1").style.fontSize= "6rem";
 }
