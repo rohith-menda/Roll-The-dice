@@ -4,10 +4,9 @@
 }
 h1{
     font-family: 'Lobster', cursive;
-    font-size: 5rem;
+    font-size: 7rem;
     margin-top: 5%;
-    
-    
+    color: mediumspringgreen;
 }
 body{
     background-color: #282d26;
@@ -40,7 +39,7 @@ img{
     margin: 20% 0%;
 }
 #footer{
-    margin: 8%;
+    margin: 6%;
     color: mediumspringgreen;
     
 }
@@ -52,4 +51,10 @@ a{
 h3{
     font-family: 'Lobster Two', cursive;
     font-size: 1.5rem;
+}
+.refresh{
+    font-family: 'Lobster Two', cursive;
+    color: mediumspringgreen;
+    font-size: 2rem;
+    padding-top: 2%;
 }
